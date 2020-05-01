@@ -1,0 +1,7 @@
+prop:
+  FIRST_NAME: FirstName - Ramanan.. name is coming from dev profile
+  MIDDLE_NAME: MiddleName - Ramanan.. name is coming from dev profile
+  LAST_NAME: LastName - Ramanan.. name is coming from dev profile
+
+server:
+  port: 8083
