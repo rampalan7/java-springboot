@@ -1,0 +1,7 @@
+prop:
+  FIRST_NAME: Ramasamy
+  MIDDLE_NAME:
+  LAST_NAME: Palanivel
+
+server:
+  port: 8082
