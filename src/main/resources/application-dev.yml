@@ -1,7 +1,6 @@
 prop:
-  FIRST_NAME: FirstName - Ramanan.. name is coming from dev profile
-  MIDDLE_NAME: MiddleName - Ramanan.. name is coming from dev profile
-  LAST_NAME: LastName - Ramanan.. name is coming from dev profile
-
+  FIRST_NAME: Ramasamy
+  MIDDLE_NAME:
+  LAST_NAME: Palanivel
 server:
   port: 8083
